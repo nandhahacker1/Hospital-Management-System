@@ -19,6 +19,12 @@ Change directory to the pattern directory:
 cd HospitalManagementSystem 
 ```
 
+From the command line, you should Enter:
+```bash
+npm install 
+node app.js
+```
+
 ---
 
 
