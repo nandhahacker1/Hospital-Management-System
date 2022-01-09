@@ -24,3 +24,9 @@ From the command line, you should Enter:
 npm install 
 node app.js
 ```
+
+---
+
+
+## Recouces 
++ [Dev post](https://dev.to/nandhahacker1/hospital-management-system-using-mongodb-with-nodejs-and-ejs-5gek)
